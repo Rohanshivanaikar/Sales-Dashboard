@@ -1,2 +1,2 @@
 # Sales-Dashboard
-Super store sales dashboard
+Power BI sales dashboard
